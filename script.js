@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("questions-btn");
   if (btn) {
     btn.addEventListener("click", function () {
-      alert("If you have questions, contact me at:\nmy.email@example.com");
+      alert("If you have questions, contact me at:sthompson6@hawk.illinostech.edu");
     });
   }
 });
