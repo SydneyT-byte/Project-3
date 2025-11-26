@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Map</title>
+
+  <link rel="stylesheet" href="css/normalize.css">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/styles.css">
+
+  <script src="script.js" defer></script>
+</head>
+
+<body id="map-page">
+  <header class="site-header">
+    <nav class="main-nav">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="hobbies.html">Hobbies</a></li>
+        <li><a href="map.html">Map</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-wrapper">
+    <section class="section-box">
+      <h1>My Area Map</h1>
+      <p>
+        This map shows a general location in the Chicago area, where I live and study.
+      </p>
+
+      <div id="map"></div>
+
+      <button id="questions-btn" type="button">Questions?</button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Fundamentals of Web Development · Project 3</p>
+  </footer>
+
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"
+    async
+    defer></script>
+</body>
+</html>

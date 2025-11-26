@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Home Page</title>
+</head>
+  <!-- Student: Sydney Thompson -->
+  <!-- Course: ITMD-361-02 -->
+
+<body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">index.html</a></li>
+          <li><a href="resume.html">resume.html</a></li>
+          <li><a href="page3.html">page3.html</a></li>
+        </ul>
+      </nav>
+    </header>
+
+ <div>
+      <h1>Sydney E. Thompson</h1>
+      <p>Chicago, Illinois</p>
+      <p>Phone: 708-654-3664</p>
+      <p>E-mail: <a href="mailto:thomsponsydney@gmail.com">thomsponsydney@gmail.com</a></p>
+    </div>
+
+    <div>
+      <h2>Summary of Qualifications</h2>
+      <p>
+        Enthusiastic ITM sophomore at Illinois Institute of Technology with a strong foundation in technology,
+        digital graphics, and computer system troubleshooting. Goal-oriented with a proven track record in
+        customer support and technical problem-solving.
+      </p>
+    </div>
+
+    <div>
+      <h2>Education</h2>
+      <h3>Illinois Institute of Technology, Chicago, IL</h3>
+      <p>B.S. in Information Technology and Management Junior</p>
+
+      <h3>Lincoln Way East High School, Frankfort, IL</h3>
+      <p>High School Diploma, 2023 — Honors Student, GPA: 4.1</p>
+    </div>
+
+    <div>
+      <h2>Skills</h2>
+      <ul>
+        <li>Installation of computer hardware (video cards, memory, network cards, SSDs)</li>
+        <li>Installation of computer software and drivers</li>
+        <li>Troubleshooting computer issues and errors</li>
+        <li>Setup of smartphones and tablets (for adults and kids)</li>
+        <li>Custom PC builds and CPU/motherboard upgrades</li>
+        <li>Video editing: 4 years Sony Vegas; 2 years Adobe Premiere</li>
+        <li>Hand-drawn animation: 4 years Toon Boom</li>
+        <li>Audio-visual conference support: 2 years projector and sound setup (Rush University)</li>
+        <li>Virtual reality: 6 years headset setup, config, and troubleshooting (Valve, Oculus, Vive)</li>
+      </ul>
+    </div>
+
+    <div>
+      <h2>Experience</h2>
+
+      <h3>Self-Employed — Various</h3>
+      <p>Aug 2015 to Present</p>
+
+      <h3>Best Buy, Tinley Park, IL — Customer Service Specialist</h3>
+      <p>May 2021 to July 2021</p>
+      <ul>
+        <li>Managed customer returns and answered product questions</li>
+        <li>Assisted with tech displays and in-store troubleshooting</li>
+      </ul>
+
+      <h3>Private Tutoring — Tutor for K–10th Grade</h3>
+      <p>June 2022 to Present</p>
+      <ul>
+        <li>Provide tutoring in English, Math, and Science</li>
+        <li>Develop personalized lesson plans and activities</li>
+      </ul>
+    </div>
+
+    <div>
+      <h2>Extracurricular Activities</h2>
+      <ul>
+        <li>High School Varsity Tennis Team — teamwork and strategic thinking</li>
+        <li>Girl Scouts — 10+ years, leadership and organizational skills</li>
+        <li>Volunteer Tutor — support peers in English, Math, and Science</li>
+      </ul>
+    </div>
+
+</body>
+
+</html>
